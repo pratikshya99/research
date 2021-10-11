@@ -9,7 +9,7 @@ int main () {
   printf("Enter another number");
   scanf("%d", &y);
 
-// displaying   
+// displaying sum   
   printf("The sum is ", x+y);
 
   return 0;
