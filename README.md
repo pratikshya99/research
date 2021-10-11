@@ -8,8 +8,10 @@ int main () {
   scanf("%d", &x);
   printf("Enter another number");
   scanf("%d", &y);
-  
+
+// displaying   
   printf("The sum is ", x+y);
 
   return 0;
 }
+
